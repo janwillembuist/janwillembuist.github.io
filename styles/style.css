@@ -1,0 +1,13 @@
+html {
+    font-size: 12px;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #dbdbdb;
+}
+
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 20px 20px 20px 20px;
+}
